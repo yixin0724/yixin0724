@@ -1,8 +1,6 @@
-## 👋Hi there，I'm (YiXin)[fangya.top]
+## 👋Hi there，I'm <a href="https://fangya.top" target="_blank">YiXin</a>
 - 🔥 I'm a programming amateur.
 - 🌱 I’m currently learning about workflow scheduling in HPC.
-
-
 
 
 
