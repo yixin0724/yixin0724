@@ -1,7 +1,13 @@
 ## 👋Hi there，I'm (YiXin)[fangya.top]
 - 🔥 I'm a programming amateur.
 - 🌱 I’m currently learning about workflow scheduling in HPC.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixin0724)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yixin0724&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 - 🔭 I’m currently working on ...
