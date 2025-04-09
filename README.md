@@ -1,5 +1,5 @@
 ## 👋Hi there，I'm <a href="https://fangya.top" target="_blank">YiXin</a>
-- 🔥 I'm a programming amateur.
+- 🔥 I'm a amateur programming.
 - 🌱 I’m currently learning about workflow scheduling in HPC.
 
 
