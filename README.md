@@ -1,5 +1,5 @@
 ## 👋Hi there，I'm YiXin
-- I'm a graduate student majoring in Software Engineering.
+- I am a graduate student majoring in Software Engineering, with a research focus on workflow scheduling algorithms based on deep reinforcement learning.
 - I’m very interested in AI and am working hard to learn its principles and applications.
 - My dream is to work in a large Internet technology company.
 
