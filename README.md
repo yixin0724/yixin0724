@@ -1,7 +1,7 @@
-## 👋Hi there，I'm <a href="https://fangya.top" target="_blank">YiXin</a>
+## 👋Hi there，I'm YiXin
 - 🔥 I'm a graduate student majoring in Software Engineering.
 - 🌱 I’m very interested in AI and am working hard to learn its principles and applications.
-- 😄 My dream is to land a job at a big tech company as soon as possible.
+- 😄 My dream is to work in a large Internet technology company.
 
 
 
