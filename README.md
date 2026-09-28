@@ -13,16 +13,14 @@ Research focus: **workflow scheduling algorithms based on Deep Reinforcement Lea
 
 </div>
 
----
 
 ## 🔭 About Me
 
 - 🎓 Third-year M.S. student in Software Engineering at **Changsha University of Science & Technology**, jointly trained at the **National University of Defense Technology (NUDT)**, graduating in **2027**.
-- 🧠 Researching **workflow scheduling algorithms based on Deep Reinforcement Learning** — building high-fidelity discrete-event simulators to make scheduling experiments reproducible and auditable.
+- 🧠 Researching **workflow scheduling algorithms based on Deep Reinforcement Learning**
 - 🛠️ **AI full-stack engineer** working on **Agent application development** — from LLM orchestration to production-grade backend services.
 - 🚀 Goal: becoming a software engineer at a leading Internet technology company.
 
----
 
 ## 🧰 Tech Stack
 
@@ -56,7 +54,6 @@ Research focus: **workflow scheduling algorithms based on Deep Reinforcement Lea
 
 </div>
 
----
 
 ## 🚀 Featured Project
 
